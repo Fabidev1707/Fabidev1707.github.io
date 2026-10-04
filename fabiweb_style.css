@@ -49,6 +49,8 @@ div.practformat{
 .article_box ul li a{
     color: rgb(0, 0, 0);
     font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 div.textformat{
