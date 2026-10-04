@@ -51,6 +51,7 @@ div.practformat{
     font-weight: bold;
     display: flex;
     flex-wrap: wrap;
+    word-break: break-all;
 }
 
 div.textformat{
